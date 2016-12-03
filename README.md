@@ -24,6 +24,12 @@ C-t:'t ""\e[D'
 
 You mean, add it to .bashrc?
 
+run this in your cli
+```
+curl https://raw.githubusercontent.com/ColinRyan/todo-cli/master/index.sh >>
+~/.bashrc && . ~/.bashrc
+```
+
 ## Contribute
 
 I'll accept a pull request as long as usage stays simple.
