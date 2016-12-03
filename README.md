@@ -40,4 +40,4 @@ I don't care what language you write in but I will request that all code be able
 
 ## Licence
 
-MIT
+MIT © [Colin Ryan](http://github.com/ColinRyan)
