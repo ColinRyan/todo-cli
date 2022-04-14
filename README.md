@@ -17,8 +17,7 @@ You mean, add it to .bashrc?
 
 run this in your cli
 ```
-curl https://raw.githubusercontent.com/ColinRyan/todo-cli/master/index.sh >>
-~/.bashrc && . ~/.bashrc
+curl https://raw.githubusercontent.com/ColinRyan/todo-cli/master/index.sh >> ~/.bashrc && . ~/.bashrc
 ```
 
 ## Config (optional)
